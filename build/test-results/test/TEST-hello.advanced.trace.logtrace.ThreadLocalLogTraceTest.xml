@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="hello.advanced.trace.logtrace.ThreadLocalLogTraceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-09-30T16:27:19" hostname="Davids-MacBook-Pro.local" time="0.022">
+  <properties/>
+  <testcase name="begin_exception_level2()" classname="hello.advanced.trace.logtrace.ThreadLocalLogTraceTest" time="0.022"/>
+  <system-out><![CDATA[01:27:19.881 [Test worker] INFO hello.advanced.trace.logtrace.ThreadLocalLogTrace -- [d1409238] hello1
+01:27:19.885 [Test worker] INFO hello.advanced.trace.logtrace.ThreadLocalLogTrace -- [d1409238] |-->hello2
+01:27:19.885 [Test worker] INFO hello.advanced.trace.logtrace.ThreadLocalLogTrace -- [d1409238] |<X-hello2 time=0ms ex=java.lang.IllegalStateException
+01:27:19.886 [Test worker] INFO hello.advanced.trace.logtrace.ThreadLocalLogTrace -- [d1409238] hello1 time=6ms ex=java.lang.IllegalStateException
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

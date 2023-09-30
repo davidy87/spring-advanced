@@ -1,4 +1,4 @@
-a22:34:33.015 [Test worker] INFO hello.advanced.trace.hellotrace.HelloTraceV2 -- [d07f2a33] hello
-f22:34:33.019 [Test worker] INFO hello.advanced.trace.hellotrace.HelloTraceV2 -- [d07f2a33] |-->hello2
-’22:34:33.019 [Test worker] INFO hello.advanced.trace.hellotrace.HelloTraceV2 -- [d07f2a33] |<X-hello2 time=0ms ex=java.lang.IllegalStateException
-22:34:33.019 [Test worker] INFO hello.advanced.trace.hellotrace.HelloTraceV2 -- [d07f2a33] hello time=5ms ex=java.lang.IllegalStateException
+g01:27:19.881 [Test worker] INFO hello.advanced.trace.logtrace.ThreadLocalLogTrace -- [d1409238] hello1
+k01:27:19.885 [Test worker] INFO hello.advanced.trace.logtrace.ThreadLocalLogTrace -- [d1409238] |-->hello2
+—01:27:19.885 [Test worker] INFO hello.advanced.trace.logtrace.ThreadLocalLogTrace -- [d1409238] |<X-hello2 time=0ms ex=java.lang.IllegalStateException
+“01:27:19.886 [Test worker] INFO hello.advanced.trace.logtrace.ThreadLocalLogTrace -- [d1409238] hello1 time=6ms ex=java.lang.IllegalStateException
