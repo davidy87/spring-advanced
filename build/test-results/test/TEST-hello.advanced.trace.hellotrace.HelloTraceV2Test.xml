@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="hello.advanced.trace.hellotrace.HelloTraceV2Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-09-30T13:34:32" hostname="Davids-MacBook-Pro.local" time="0.089">
+  <properties/>
+  <testcase name="begin_exception()" classname="hello.advanced.trace.hellotrace.HelloTraceV2Test" time="0.089"/>
+  <system-out><![CDATA[22:34:33.015 [Test worker] INFO hello.advanced.trace.hellotrace.HelloTraceV2 -- [d07f2a33] hello
+22:34:33.019 [Test worker] INFO hello.advanced.trace.hellotrace.HelloTraceV2 -- [d07f2a33] |-->hello2
+22:34:33.019 [Test worker] INFO hello.advanced.trace.hellotrace.HelloTraceV2 -- [d07f2a33] |<X-hello2 time=0ms ex=java.lang.IllegalStateException
+22:34:33.019 [Test worker] INFO hello.advanced.trace.hellotrace.HelloTraceV2 -- [d07f2a33] hello time=5ms ex=java.lang.IllegalStateException
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

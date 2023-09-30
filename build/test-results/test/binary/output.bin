@@ -1,0 +1,4 @@
+a22:34:33.015 [Test worker] INFO hello.advanced.trace.hellotrace.HelloTraceV2 -- [d07f2a33] hello
+f22:34:33.019 [Test worker] INFO hello.advanced.trace.hellotrace.HelloTraceV2 -- [d07f2a33] |-->hello2
+’22:34:33.019 [Test worker] INFO hello.advanced.trace.hellotrace.HelloTraceV2 -- [d07f2a33] |<X-hello2 time=0ms ex=java.lang.IllegalStateException
+22:34:33.019 [Test worker] INFO hello.advanced.trace.hellotrace.HelloTraceV2 -- [d07f2a33] hello time=5ms ex=java.lang.IllegalStateException
