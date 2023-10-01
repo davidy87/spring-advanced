@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="hello.advanced.trace.strategy.ContextV2Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-10-01T14:16:53" hostname="Davids-MacBook-Pro.local" time="0.025">
+  <properties/>
+  <testcase name="strategyV1()" classname="hello.advanced.trace.strategy.ContextV2Test" time="0.025"/>
+  <system-out><![CDATA[23:16:53.155 [Test worker] INFO hello.advanced.trace.strategy.code.strategy.StrategyLogic1 -- 비즈니스 로직1
+23:16:53.158 [Test worker] INFO hello.advanced.trace.strategy.code.strategy.ContextV2 -- resultTime = 5
+23:16:53.160 [Test worker] INFO hello.advanced.trace.strategy.code.strategy.StrategyLogic2 -- 비즈니스 로직2
+23:16:53.160 [Test worker] INFO hello.advanced.trace.strategy.code.strategy.ContextV2 -- resultTime = 0
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

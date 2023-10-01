@@ -1,4 +1,4 @@
-p17:55:28.000 [Test worker] INFO hello.advanced.trace.template.TemplateMethodTest -- 비즈니스 로직1 실행
-f17:55:28.004 [Test worker] INFO hello.advanced.trace.template.code.AbstractTemplate -- resultTime = 6
-p17:55:28.006 [Test worker] INFO hello.advanced.trace.template.TemplateMethodTest -- 비즈니스 로직2 실행
-f17:55:28.006 [Test worker] INFO hello.advanced.trace.template.code.AbstractTemplate -- resultTime = 0
+s23:16:53.155 [Test worker] INFO hello.advanced.trace.strategy.code.strategy.StrategyLogic1 -- 비즈니스 로직1
+h23:16:53.158 [Test worker] INFO hello.advanced.trace.strategy.code.strategy.ContextV2 -- resultTime = 5
+s23:16:53.160 [Test worker] INFO hello.advanced.trace.strategy.code.strategy.StrategyLogic2 -- 비즈니스 로직2
+h23:16:53.160 [Test worker] INFO hello.advanced.trace.strategy.code.strategy.ContextV2 -- resultTime = 0
