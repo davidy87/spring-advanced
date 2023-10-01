@@ -11,26 +11,18 @@
       <change beforePath="$PROJECT_DIR$/.gradle/8.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.2.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/hello/advanced/app/v2/OrderControllerV2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/hello/advanced/app/v2/OrderControllerV2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/hello/advanced/trace/logtrace/FieldLogTrace.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/hello/advanced/trace/logtrace/FieldLogTrace.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/hello.advanced.trace.hellotrace.HelloTraceV2Test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/advanced/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/hello.advanced.trace.logtrace.ThreadLocalLogTraceTest.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/hello.advanced.trace.hellotrace.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-hello.advanced.trace.hellotrace.HelloTraceV2Test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/hello.advanced.trace.logtrace.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-hello.advanced.trace.logtrace.ThreadLocalLogTraceTest.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/OrderControllerV2.class.uniqueId1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/OrderServiceV2.class.uniqueId0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/compileTransaction/stash-dir/HelloTraceV2Test.class.uniqueId0" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hello/advanced/app/v2/OrderControllerV2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hello/advanced/app/v2/OrderControllerV2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hello/advanced/trace/logtrace/FieldLogTrace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hello/advanced/trace/logtrace/FieldLogTrace.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,9 +58,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2W7XMXnyAd6Uy6PZ8bdNe0B67Ne" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -83,11 +75,12 @@
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/david/Desktop/projects/spring-advanced/src/main/java/hello/advanced/app/v3"
+    "last_opened_file_path": "/Users/david/Desktop/projects/spring-advanced/src/main/java/hello/advanced/app/v4"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/hello/advanced/app/v4" />
       <recent name="$PROJECT_DIR$/src/main/java/hello/advanced/app/v3" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
@@ -97,6 +90,7 @@
       <recent name="hello.advanced.trace.logtrace" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="hello.advanced.trace.template.code" />
       <recent name="hello.advanced.trace.logtrace" />
       <recent name="hello.advanced.trace.threadlocal" />
       <recent name="hello.advanced.trace.threadlocal.code" />
@@ -116,7 +110,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadLocalLogTraceTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="TemplateMethodTest.templateMethodV0" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -129,7 +123,7 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;hello.advanced.trace.logtrace.ThreadLocalLogTraceTest&quot;" />
+            <option value="&quot;hello.advanced.trace.template.TemplateMethodTest.templateMethodV0&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -140,7 +134,7 @@
       <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
-    <configuration name="ThreadLocalLogTraceTest.begin_end_level2" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="TemplateMethodTest.templateMethodV1" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -153,7 +147,31 @@
           <list>
             <option value=":test" />
             <option value="--tests" />
-            <option value="&quot;hello.advanced.trace.logtrace.ThreadLocalLogTraceTest.begin_end_level2&quot;" />
+            <option value="&quot;hello.advanced.trace.template.TemplateMethodTest.templateMethodV1&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="TemplateMethodTest.templateMethodV2" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;hello.advanced.trace.template.TemplateMethodTest.templateMethodV2&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -188,30 +206,6 @@
       <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
-    <configuration name="ThreadLocalServiceTest.field" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;hello.advanced.trace.threadlocal.ThreadLocalServiceTest.field&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <RunAsTest>true</RunAsTest>
-      <method v="2" />
-    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="spring-advanced" />
       <method v="2">
@@ -227,11 +221,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.TemplateMethodTest.templateMethodV2" />
+        <item itemvalue="Gradle.TemplateMethodTest.templateMethodV1" />
+        <item itemvalue="Gradle.TemplateMethodTest.templateMethodV0" />
         <item itemvalue="Application.AdvancedApplication" />
         <item itemvalue="Gradle.ThreadLocalLogTraceTest.begin_exception_level2" />
-        <item itemvalue="Gradle.ThreadLocalLogTraceTest.begin_end_level2" />
-        <item itemvalue="Gradle.ThreadLocalLogTraceTest" />
-        <item itemvalue="Gradle.ThreadLocalServiceTest.field" />
       </list>
     </recent_temporary>
   </component>

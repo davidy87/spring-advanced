@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="hello.advanced.trace.template.TemplateMethodTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-10-01T08:55:27" hostname="Davids-MacBook-Pro.local" time="0.025">
+  <properties/>
+  <testcase name="templateMethodV2()" classname="hello.advanced.trace.template.TemplateMethodTest" time="0.025"/>
+  <system-out><![CDATA[17:55:28.000 [Test worker] INFO hello.advanced.trace.template.TemplateMethodTest -- 비즈니스 로직1 실행
+17:55:28.004 [Test worker] INFO hello.advanced.trace.template.code.AbstractTemplate -- resultTime = 6
+17:55:28.006 [Test worker] INFO hello.advanced.trace.template.TemplateMethodTest -- 비즈니스 로직2 실행
+17:55:28.006 [Test worker] INFO hello.advanced.trace.template.code.AbstractTemplate -- resultTime = 0
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,4 +1,4 @@
-g01:27:19.881 [Test worker] INFO hello.advanced.trace.logtrace.ThreadLocalLogTrace -- [d1409238] hello1
-k01:27:19.885 [Test worker] INFO hello.advanced.trace.logtrace.ThreadLocalLogTrace -- [d1409238] |-->hello2
-�01:27:19.885 [Test worker] INFO hello.advanced.trace.logtrace.ThreadLocalLogTrace -- [d1409238] |<X-hello2 time=0ms ex=java.lang.IllegalStateException
-�01:27:19.886 [Test worker] INFO hello.advanced.trace.logtrace.ThreadLocalLogTrace -- [d1409238] hello1 time=6ms ex=java.lang.IllegalStateException
+p17:55:28.000 [Test worker] INFO hello.advanced.trace.template.TemplateMethodTest -- 비즈니스 로직1 실행
+f17:55:28.004 [Test worker] INFO hello.advanced.trace.template.code.AbstractTemplate -- resultTime = 6
+p17:55:28.006 [Test worker] INFO hello.advanced.trace.template.TemplateMethodTest -- 비즈니스 로직2 실행
+f17:55:28.006 [Test worker] INFO hello.advanced.trace.template.code.AbstractTemplate -- resultTime = 0
